@@ -12,7 +12,7 @@
 
 前往 [Releases](https://github.com/zero-but-one/DesktopTodo/releases) 页面下载最新版本：
 
-- **桌面待办-1.0.0-setup.exe** - Windows 安装版
+- **桌面待办-1.0.0-Windows.exe** - Windows 安装版
 
 > 💡 下载后双击运行即可安装，支持开机自启动
 
