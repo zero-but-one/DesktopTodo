@@ -2,7 +2,7 @@
 
 一款精美的 Windows 桌面待办事项应用，采用现代化设计语言，支持任务紧急度可视化、智能提醒等功能。
 
-![Version](https://img.shields.io/badge/Version-1.0.5-blue)
+![Version](https://img.shields.io/badge/Version-1.0.6-blue)
 ![Electron](https://img.shields.io/badge/Electron-28.3.3-47848F?logo=electron)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)
@@ -12,7 +12,7 @@
 
 前往 [Releases](https://github.com/zero-but-one/DesktopTodo/releases) 页面下载最新版本：
 
-- **Windows**: `DesktopTodo-1.0.5-Windows.exe`
+- **Windows**: `DesktopTodo-1.0.6-Windows.exe`
 
 ## ✨ 核心特性
 
@@ -46,6 +46,7 @@
 
 ### 🎯 便捷的任务管理
 
+- **任务编辑** - 点击编辑按钮可修改待办内容，支持修改截止时间
 - **快捷时间选择** - 一键设置"一小时后"、"今晚8点"、"明天此时"
 - **长按日期快选时间** - 长按日期按钮 400ms 弹出放射菜单，8 个时间选项从中心弹簧飞出，拖拽选择后松手即可快速设置截止时间
 - **日历选择器** - 可视化日历，轻松选择截止日期
@@ -92,7 +93,7 @@
 
 ## 📦 安装与运行
 
-1. 前往 [Releases](https://github.com/zero-but-one/DesktopTodo/releases) 页面下载 `DesktopTodo-1.0.5-Windows.exe`
+1. 前往 [Releases](https://github.com/zero-but-one/DesktopTodo/releases) 页面下载 `DesktopTodo-1.0.6-Windows.exe`
 2. 双击运行安装包，按提示完成安装
 3. 安装完成后即可使用
 
